@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\bin\Debug\net6.0\ComparerApp.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\bin\Debug\net6.0\ComparerApp.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\bin\Debug\net6.0\ComparerApp.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\bin\Debug\net6.0\ComparerApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\bin\Debug\net6.0\ComparerApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\refint\ComparerApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ComparerApp.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ComparerApp\obj\Debug\net6.0\ref\ComparerApp.dll

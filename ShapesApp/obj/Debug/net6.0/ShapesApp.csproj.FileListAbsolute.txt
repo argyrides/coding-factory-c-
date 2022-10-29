@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\bin\Debug\net6.0\ShapesApp.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\bin\Debug\net6.0\ShapesApp.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\bin\Debug\net6.0\ShapesApp.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\bin\Debug\net6.0\ShapesApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\bin\Debug\net6.0\ShapesApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\refint\ShapesApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ShapesApp.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\ShapesApp\obj\Debug\net6.0\ref\ShapesApp.dll

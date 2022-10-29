@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EJJ4Rwy19GXAdhuYsWr5ojbfelfYBtxjZl5PMedy90k=",
+  "Source": "WebEmpty",
+  "BasePath": "_content/WebEmpty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebEmpty\\wwwroot",
+      "Source": "WebEmpty",
+      "ContentRoot": "C:\\Users\\alexa\\Desktop\\CodingFactory\\CSharp\\CSharpProjectsCodingFactory\\WebEmpty\\wwwroot\\",
+      "BasePath": "_content/WebEmpty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alexa\\Desktop\\CodingFactory\\CSharp\\CSharpProjectsCodingFactory\\WebEmpty\\wwwroot\\index.html",
+      "SourceId": "WebEmpty",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexa\\Desktop\\CodingFactory\\CSharp\\CSharpProjectsCodingFactory\\WebEmpty\\wwwroot\\",
+      "BasePath": "_content/WebEmpty",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

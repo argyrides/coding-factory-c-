@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\bin\Debug\net6.0\PointDAOServiceApp.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\bin\Debug\net6.0\PointDAOServiceApp.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\bin\Debug\net6.0\PointDAOServiceApp.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\bin\Debug\net6.0\PointDAOServiceApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\bin\Debug\net6.0\PointDAOServiceApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\refint\PointDAOServiceApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\PointDAOServiceApp.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointDAOServiceApp\obj\Debug\net6.0\ref\PointDAOServiceApp.dll

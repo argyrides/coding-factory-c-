@@ -1,0 +1,5 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\AccountApp\obj\Debug\net6.0\AccountApp.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\AccountApp\obj\Debug\net6.0\AccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\AccountApp\obj\Debug\net6.0\AccountApp.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\AccountApp\obj\Debug\net6.0\AccountApp.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\AccountApp\obj\Debug\net6.0\AccountApp.csproj.CoreCompileInputs.cache

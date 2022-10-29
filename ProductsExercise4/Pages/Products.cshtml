@@ -1,0 +1,21 @@
+﻿@page
+@model ProductsExercise4.Pages.ProductsModel
+@{
+}
+
+<div class="row">
+    <table class="table">
+        <thead class="table-light">
+            <tr><th>Products List</th></tr>
+        </thead>
+        <tbody>
+            @if (Model.ProductsList != null)
+            {
+                foreach (var item in Model.ProductsList)
+                {
+                    <tr><td>@item</td></tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

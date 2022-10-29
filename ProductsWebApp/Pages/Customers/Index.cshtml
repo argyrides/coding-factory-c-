@@ -1,0 +1,34 @@
+﻿@page
+@model ProductsWebApp.Pages.Customers.IndexModel
+@{
+}
+
+
+<h2>List of Customers </h2>
+<a class="btn btn-primary btn-sm" href="/Customers/Create">New</a>
+<table class="table table-striped table-bordered table-hover mt-2">
+    <thead class="">   
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Surname</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Customers is not null) {
+            @foreach (var product in Model.Customers)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Surname</td>
+                    <td>
+                        <a class="btn btn-secondary btn-sm" href="/Products/Update?id=@product.Id">Edit</a>
+                        <a class="btn btn-danger btn-sm" href="/Products/Delete?id=@product.Id">Delete</a>
+                    </td>
+                </tr>
+
+            }
+        }
+    </tbody>
+</table>

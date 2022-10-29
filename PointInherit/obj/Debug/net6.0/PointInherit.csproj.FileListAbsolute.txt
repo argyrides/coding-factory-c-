@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\bin\Debug\net6.0\PointInherit.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\bin\Debug\net6.0\PointInherit.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\bin\Debug\net6.0\PointInherit.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\bin\Debug\net6.0\PointInherit.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\bin\Debug\net6.0\PointInherit.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\refint\PointInherit.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\PointInherit.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\PointInherit\obj\Debug\net6.0\ref\PointInherit.dll

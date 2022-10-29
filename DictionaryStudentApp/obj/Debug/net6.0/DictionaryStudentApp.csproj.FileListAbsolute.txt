@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\bin\Debug\net6.0\DictionaryStudentApp.exe
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\bin\Debug\net6.0\DictionaryStudentApp.deps.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\bin\Debug\net6.0\DictionaryStudentApp.runtimeconfig.json
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\bin\Debug\net6.0\DictionaryStudentApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\bin\Debug\net6.0\DictionaryStudentApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.AssemblyInfo.cs
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\refint\DictionaryStudentApp.dll
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.pdb
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\DictionaryStudentApp.genruntimeconfig.cache
+C:\Users\alexa\Desktop\CodingFactory\CSharp\CSharpProjectsCodingFactory\DictionaryStudentApp\obj\Debug\net6.0\ref\DictionaryStudentApp.dll
